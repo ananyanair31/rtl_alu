@@ -14,3 +14,8 @@ This project implements an **Arithmetic Logic Unit (ALU)** as part of an **ASIC 
 rtl_alu/
 │── src/                # ALU RTL code (Verilog/SystemVerilog)
 │── testbench/          # Testbench files
+
+```
+## Schematic
+
+![image](https://github.com/user-attachments/assets/4b53c1d1-df93-4f2f-b135-fa9b5d9863fc)
