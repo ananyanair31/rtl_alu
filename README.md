@@ -5,7 +5,7 @@ This project implements an **Arithmetic Logic Unit (ALU)** as part of an **ASIC 
 
 ## Features
 - Supports operations like **addition, subtraction, AND, OR, XOR, and shift operations**.
-- Designed using **Verilog/SystemVerilog**.
+- Designed using **Verilog**.
 - Simulated and verified using **Vivado/Xilinx tools**.
 - Synthesizable for ASIC implementation.
 
