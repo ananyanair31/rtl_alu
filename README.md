@@ -12,7 +12,7 @@ This project implements an **Arithmetic Logic Unit (ALU)** as part of an **ASIC 
 ## Project Structure
 ```
 rtl_alu/
-│── src/                # ALU RTL code (Verilog/SystemVerilog)
+│── src/                # ALU RTL code
 │── testbench/          # Testbench files
 
 ```
