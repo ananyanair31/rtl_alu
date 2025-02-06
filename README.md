@@ -19,3 +19,7 @@ rtl_alu/
 ## Schematic
 
 ![image](https://github.com/user-attachments/assets/4b53c1d1-df93-4f2f-b135-fa9b5d9863fc)
+
+## Waveform
+
+![image](https://github.com/user-attachments/assets/40852613-5227-41b9-96f4-d78d06832941)
