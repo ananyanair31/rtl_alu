@@ -6,7 +6,8 @@ This project implements an **Arithmetic Logic Unit (ALU)** as part of an **ASIC 
 ## Features
 - Supports operations like **addition, subtraction, AND, OR, XOR, and shift operations**.
 - Designed using **Verilog**.
-- Simulated and verified using **Vivado/Xilinx tools**.
+- Simulated and verified using **Vivado**.
+- Automated using tcl scripting.
 - Synthesizable for ASIC implementation.
 
 ## Project Structure
@@ -14,6 +15,7 @@ This project implements an **Arithmetic Logic Unit (ALU)** as part of an **ASIC 
 rtl_alu/
 │── src/                # ALU RTL code
 │── testbench/          # Testbench files
+│── tcl script/         # Automation script
 
 ```
 ## Schematic
